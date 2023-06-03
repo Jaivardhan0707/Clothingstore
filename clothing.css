@@ -1,0 +1,61 @@
+
+
+.mencloth{
+    position: absolute;
+    left:5%;
+    top:15%;
+    border:1px solid darkgray;
+    box-shadow:1px 2px 4px;
+    
+}
+.mencloth1{
+    position: absolute;
+    left:35%;
+    top:15%;
+    border:1px solid darkgray;
+    box-shadow:1px 2px 4px;
+    
+}
+.mencloth2{
+    position: absolute;
+    left:70%;
+    top:15%;
+    border:1px solid darkgray;
+    box-shadow:1px 2px 4px;
+    background-color: blue;
+}
+h6{
+    color:black;
+    position: absolute;
+    left: 20%;
+    top: 80%;
+    border: 1px solid whitesmoke;
+    width: 200px;
+    font-size: 20px;
+    font-family: barlow condensed, sans-serif;
+    background-color: white;
+    font-weight: normal; 
+    text-align: center;
+}
+.text{
+    position:absolute;
+        
+    left:0%;
+    top:80%;
+    
+}
+.mencloth button{
+    position: absolute;
+    left:40%;
+    top:110%;
+}
+.mencloth1 button{
+    position: absolute;
+    left:37%;
+    top:113%;
+}
+.mencloth2 button{
+    position: absolute;
+    left:40%;
+    top:110%;
+}
